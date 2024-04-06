@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Leetcode",
+      "color": {
+        "a": 1,
+        "rgb": 16752918
+      }
+    },
+    {
+      "query": "Algorithms",
+      "color": {
+        "a": 1,
+        "rgb": 918443
+      }
+    },
+    {
+      "query": "Quran",
+      "color": {
+        "a": 1,
+        "rgb": 757157
+      }
+    },
+    {
+      "query": "Sahabas",
+      "color": {
+        "a": 1,
+        "rgb": 10090744
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.94043659043659,
+  "lineSizeMultiplier": 0.594074844074844,
+  "collapse-forces": true,
+  "centerStrength": 0.404365904365904,
+  "repelStrength": 9.33471933471933,
+  "linkStrength": 1,
+  "linkDistance": 263,
+  "scale": 0.39946953794035894,
+  "close": false
+}

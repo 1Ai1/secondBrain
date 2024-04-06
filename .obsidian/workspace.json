@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "8f0c4811e898e182",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b93dc1ab4e8adc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e45c34bbec57972e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f0e9b419d10bae3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a15b162096567880",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e89beafd23910c12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29e31525c35ce4c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e1cdb6041efaaa4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "99f67ed2285491cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dab0d1f9a569d6b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e64dc7173d9e83bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa11ecfb85de516d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f93484cae85738d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31c6118adee51a68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c412110d60e44e00",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a8d1c28c88a1a77",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e45c34bbec57972e",
+  "lastOpenFiles": [
+    "Coding/Leetcode problems/Code Testcase Testcase Test Result 1249. Minimum Remove to Make Valid Parentheses.md",
+    "Coding/Leetcode problems/1544. Make The String Great.md",
+    "Coding/Leetcode problems/1614. Maximum Nesting Depth of the Parentheses.md",
+    "Coding/Algorithms/Stack.md",
+    "Coding/Algorithms/Sliding window.md",
+    "Source/Quran.md",
+    "Coding/Leetcode.md",
+    "Source/Video/mnv/30 күнде 30 сахаба/30 Әли ибн Әбу Талиб р.а..md",
+    "Coding/Leetcode problems/79. Word Search.md",
+    "Coding/Algorithms/Backtracking.md",
+    "Coding/Algorithms/Hash Table.md",
+    "Spheres/Sahabas.md",
+    "Spheres/Islam.md",
+    "Spheres/Dua list.md",
+    "Source/Literature/Books/mnv/Футух-Аль-Гайб.md",
+    "Spheres/Принципы.md",
+    "Source/Video/Science/Дисциплина - лучший навык.md",
+    "[].md",
+    "Source/Literature/Books/dunievi/Оскар и розовая дама.md",
+    "Source/Literature/Books/mnv/Рухуль-Байан.md",
+    "Source/Video/mnv/30 күнде 30 сахаба/30 Абдулла ибн Зубайр р.а..md",
+    "Source/Video/Science/Замените игры программированием..md",
+    "Coding/Leetcode problems/205. Isomorphic Strings.md",
+    "Coding/Leetcode problems/713. Subarray Product Less Than K.md",
+    "Coding/Leetcode problems/992. Subarrays with K Different Integers.md",
+    "Coding/Leetcode problems/2024. Maximize the Confusion of an Exam.md",
+    "Source/Video/mnv/30 күнде 30 сахаба",
+    "Source/Video/mnv",
+    "Pet Project.canvas",
+    "Untitled 1.canvas",
+    "QQ",
+    "Source",
+    "Source/Video/Books",
+    "Spheres",
+    "Templates",
+    "Coding/Leetcode problems",
+    "Pasted image 20240327160553.png",
+    "Assets/Pasted image 20240327121414.png",
+    "Coding/Algorithms",
+    "Source/Language/TUrkce/Sozler 500",
+    "Assets/Pasted image 20240326143155.png",
+    "Pasted image 20230921195410.png"
+  ]
+}
