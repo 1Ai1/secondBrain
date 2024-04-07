@@ -11,8 +11,12 @@
             "id": "4f2764bd8fbc029c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Algorithms/Greedy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Coding/Algorithms/Greedy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Coding/Algorithms/Greedy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Coding/Algorithms/Greedy.md"
+              }
             }
           },
           {
@@ -160,6 +168,7 @@
   },
   "active": "4f2764bd8fbc029c",
   "lastOpenFiles": [
+    "Coding/Algorithms/Stack.md",
     "Coding/Leetcode problems/678. Valid Parenthesis String.md",
     "Coding/Leetcode problems/713. Subarray Product Less Than K.md",
     "Coding/Leetcode problems/992. Subarrays with K Different Integers.md",
@@ -167,7 +176,6 @@
     "Assets/Pasted image 20240407063747.png",
     "Coding/Leetcode problems/1614. Maximum Nesting Depth of the Parentheses.md",
     "Coding/Leetcode problems/79. Word Search.md",
-    "Coding/Algorithms/Stack.md",
     "Assets/Pasted image 20240327121414.png",
     "Assets/Pasted image 20240326143155.png",
     "Source/Video/Science/Дисциплина - лучший навык.md",
