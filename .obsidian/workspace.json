@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "9b93dc1ab4e8adc6",
+        "id": "0ddf0c3661441cc3",
         "type": "tabs",
         "children": [
           {
-            "id": "e45c34bbec57972e",
+            "id": "4f2764bd8fbc029c",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -158,17 +158,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e45c34bbec57972e",
+  "active": "4f2764bd8fbc029c",
   "lastOpenFiles": [
+    "Coding/Leetcode problems/678. Valid Parenthesis String.md",
+    "Coding/Leetcode problems/713. Subarray Product Less Than K.md",
+    "Coding/Leetcode problems/992. Subarrays with K Different Integers.md",
+    "Coding/Algorithms/Greedy.md",
+    "Assets/Pasted image 20240407063747.png",
+    "Coding/Leetcode problems/1614. Maximum Nesting Depth of the Parentheses.md",
+    "Coding/Leetcode problems/79. Word Search.md",
+    "Coding/Algorithms/Stack.md",
+    "Assets/Pasted image 20240327121414.png",
+    "Assets/Pasted image 20240326143155.png",
+    "Source/Video/Science/Дисциплина - лучший навык.md",
+    "Spheres/Sunnah for every move.md",
+    "Research/Намазда зәм сүрелер.md",
+    "Coding/Algorithms/Sliding window.md",
+    "Research",
     "Coding/Leetcode problems/Code Testcase Testcase Test Result 1249. Minimum Remove to Make Valid Parentheses.md",
     "Coding/Leetcode problems/1544. Make The String Great.md",
-    "Coding/Leetcode problems/1614. Maximum Nesting Depth of the Parentheses.md",
-    "Coding/Algorithms/Stack.md",
-    "Coding/Algorithms/Sliding window.md",
     "Source/Quran.md",
     "Coding/Leetcode.md",
     "Source/Video/mnv/30 күнде 30 сахаба/30 Әли ибн Әбу Талиб р.а..md",
-    "Coding/Leetcode problems/79. Word Search.md",
     "Coding/Algorithms/Backtracking.md",
     "Coding/Algorithms/Hash Table.md",
     "Spheres/Sahabas.md",
@@ -176,16 +187,9 @@
     "Spheres/Dua list.md",
     "Source/Literature/Books/mnv/Футух-Аль-Гайб.md",
     "Spheres/Принципы.md",
-    "Source/Video/Science/Дисциплина - лучший навык.md",
     "[].md",
     "Source/Literature/Books/dunievi/Оскар и розовая дама.md",
     "Source/Literature/Books/mnv/Рухуль-Байан.md",
-    "Source/Video/mnv/30 күнде 30 сахаба/30 Абдулла ибн Зубайр р.а..md",
-    "Source/Video/Science/Замените игры программированием..md",
-    "Coding/Leetcode problems/205. Isomorphic Strings.md",
-    "Coding/Leetcode problems/713. Subarray Product Less Than K.md",
-    "Coding/Leetcode problems/992. Subarrays with K Different Integers.md",
-    "Coding/Leetcode problems/2024. Maximize the Confusion of an Exam.md",
     "Source/Video/mnv/30 күнде 30 сахаба",
     "Source/Video/mnv",
     "Pet Project.canvas",
@@ -197,10 +201,7 @@
     "Templates",
     "Coding/Leetcode problems",
     "Pasted image 20240327160553.png",
-    "Assets/Pasted image 20240327121414.png",
     "Coding/Algorithms",
-    "Source/Language/TUrkce/Sozler 500",
-    "Assets/Pasted image 20240326143155.png",
     "Pasted image 20230921195410.png"
   ]
 }

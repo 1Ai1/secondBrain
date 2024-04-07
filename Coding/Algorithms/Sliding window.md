@@ -14,5 +14,4 @@ sum += right
 ```
 
 
-
 [[Algorithms]]
