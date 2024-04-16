@@ -11,12 +11,8 @@
             "id": "78d16bd6d6e8a31d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Source/Video/mnv/Mü'minin gönül dünyası 5.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -97,7 +93,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Source/Video/mnv/Mü'minin gönül dünyası 5.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Source/Video/mnv/Mü'minin gönül dünyası 5.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,9 +119,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Source/Video/mnv/Mü'minin gönül dünyası 5.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -145,8 +137,9 @@
   },
   "active": "78d16bd6d6e8a31d",
   "lastOpenFiles": [
-    "Source/Literature/Books/dunievi/Никогда не ешьте в одиночку.md",
     "Source/Video/mnv/Mü'minin gönül dünyası 5.md",
+    "Source/Video/Science/Untitled.md",
+    "Source/Literature/Books/dunievi/Никогда не ешьте в одиночку.md",
     "Coding/Algorithms/Greedy.md",
     "Coding/Algorithms.md",
     "e1712401296628",
