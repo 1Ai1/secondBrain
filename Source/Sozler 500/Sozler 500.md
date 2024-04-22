@@ -183,7 +183,7 @@ Karşıtı: IZMAR
 **Kezâlik** (ﻛﺬﻟﻚ) zf. (Ar. keẕālik) - Bu da öyle, yine öyle, kezâ - Это тоже так, снова так, точно так же
 
 
-**Kerim** (ﻛﺮﻳﻢ) sıf. ve i. (Ar. kerem “cömert olmak, şerefli olmak”tan kerіm) - Kerem sâhibi (kimse), cömert, âlîcenap
+**Kerim** (ﻛﺮﻳﻢ) sıf. ve i. (Ar. kerem “cömert olmak, şerefli olmak”tan kerіm) - Kerem sâhibi (kimse), cömert, âlîcenap, Sonsuz ikram sahibi ^3f7581
 
 
 **Kavânîn** (ﻗﻮﺍﻧﻴﻦ) i. (Ar. ḳānūn’un çoğul şekli ḳavānіn) - Kānunlar
@@ -425,3 +425,103 @@ Karşıtı: IZMAR
 
 
 **Bâtın** (ﺑﺎﻃﻦ) i. (Ar. baṭn “iç taraf, karın” ve buṭūn “gizli olmak”tan bāṭin) - Sır
+
+
+# 08.04
+
+**Belâgat** (ﺑﻼﻏﺖ) i. (Ar. belāġat) - Sözün etkili, güzel ve hitap edilen kimseye, içinde bulunulan duruma uygun düşecek şekilde söylenmesi; fasih ve hâle uygun söz söyleme
+
+
+**Berk** (ﺑﺮﻕ) i. (Ar. berḳ) - Şimşek
+
+
+**Cami** (ﺟﺎﻣﻊ) i. (Ar. cem‘ “toplamak”tan cāmi‘) - Müslümanların, içinde vakit namazlarıyle cuma ve bayram namazlarını kıldıkları ve ibâdet ettikleri mihraplı, minberli, genellikle minâreli binâ, büyük mescit
+
+
+**Celp - Celb** (ﺟﻠﺐ) i. (Ar. celb) 
+	1. Kendine doğru çekme
+	2. Getirtme, getirtilme, çağırtma, dâvet
+	3. Bir mahkeme tarafından dâvâ ile ilgili kimselere veya şûbelerce askere alınacaklara gönderilen çağırma kağıdı, celpnâme. - Бумага о вызове, повестка, направляемая судом лицам, имеющим отношение к делу, или лицам, подлежащим призыву в отделения, называется повестка.
+	4. asker. Askere çağırma
+
+
+**Dellal** (ﺩﻻّﻝ) i. (Ar. delālet “yol göstermek”ten dellāl) - Tellâl kelimesinin eski metinlerde kullanılan asıl şekli
+
+
+**Edna** ( ﺍﺩﻧﺎ– ﺍﺩﻧﻰ) sıf. (Ar. denā’et “alçak olmak”tan ednā) - 
+	1. Çok (daha, en, pek) aşağı, âdî
+	2. En küçük, en az, cüz’î
+
+
+**Emare** (ﺍﻣﺎﺭﻩ) i. (Ar. emāre) - Belirti, ipucu, iz, alâmet
+
+
+**Emval** (ﺍﻣﻮﺍﻝ) i. (Ar. māl’ın çoğul şekli emvāl) - Mallar, mülkler, satın alınan şeyler
+
+
+**Evamir** (ﺍﻭﺍﻣﺮ) i. (Ar. emr “emir”in çoğul şekli evāmir) - Buyruklar, emirler
+
+
+**Fasık** (ﻓﺎﺳﻖ) i. ve sıf. (Ar. fisḳ “doğru yoldan sapmak, günah işlemek”ten fāsiḳ) Fısk u fucur sâhibi, şerîat hükümlerine uymayan günahkâr kimse
+
+
+**Fevk** (ﻓﻮﻕ) i. (Ar. fevḳ)
+	1. Üst, üst taraf, yukarı. Karşıtı: TAHT
+	2. Daha ileri, daha öte, daha üst
+
+
+**Giriftar** (ﮔﺮﻓﺘﺎﺭ) sıf. (Fars. giriften “tutmak, tutulmak”tan giriftār) - Tutulmuş, yakalanmış, tutkun, müptelâ
+
+
+**Hilaf** (ﺧﻼﻒ) sıf. ve zf. (Ar. ḫilāf) - Ters, aykırı
+
+
+**Hodbin** (ﺧﻮﺩﺑﻴﻦ) sıf. ve i. (Fars. ḫōd “kendi” ve bіn “gören” ile ḫōd-bіn) - Sâdece kendini gören (kimse), mağrur, kibirli
+
+
+**Hüsün - Hüsn** (ﺣﺴﻦ) i. (Ar. ḥusn) - Güzellik. Karşıtı: KUBUH
+
+
+**İâşe** (ﺍﻋﺎﺷﻪ) i. (Ar. ‘ayş “yaşamak, hayatta olmak”tan i‘āşe) - Yedirip içirme, yiyip içmesini sağlayıp geçindirme
+
+
+**İfrat** (ﺍﻓﺮﺍﻁ) i. (Ar. farṭ “aşırı gitmek, ileri geçmek”ten ifrāṭ) - Aşırı gitme, ölçüyü aşma, gereğinden fazla ileri gitme
+
+
+**İftirak** (ﺍﻓﺘﺮﺍﻕ) i. (Ar. farḳ “iki şeyi ayırmak”tan iftirāḳ) - Ayrılık, ayrılma, hicran 
+
+
+**İltica** (ﺍﻟﺘﺠﺎﺀ) i. (Ar. lec’ “sığınmak”tan ilticā’) - Sığınma, himâyesi altına girmeyi isteme
+
+
+**İmtisal** (ﺍﻣﺘﺜﺎﻝ) i. (Ar. muѕūl “benzetmek, şekil vermek”ten imtiѕāl) 
+	1. Örnek olarak alıp ayak uydurma, uyma, uyulma
+	2. Boyun eğip itâat etme, emre göre hareket etme
+
+
+**İntaç - İntac** (ﺍﻧﺘﺎﺝ) i. (Ar. netāc “sonuçlandırmak; yavrulatmak”tan intāc) - Sonuçlandırma, sonunu alma, bitirme
+
+
+**İstilzam** (ﺍﺳﺘﻠﺰﺍﻡ) i. (Ar. luzūm “gerekmek”ten istilzām) - Gerekme, gerektirme, îcap etme, îcap ettirme
+
+
+**İştirak** (ﺍﺷﺘﺮﺍﻙ) i. (Ar. şirket “ortağı olmak”tan iştirāk) - Ortak olma, birlikte bulunma, ortaklık
+
+
+**İttihaz** (ﺍﺗّﺨﺎﺫ) i. (Ar. aḫẕ “almak, tutmak”tan ittiḫāẕ) - Kabul etme, öyle sayma … edinme
+
+
+**Lâtif** ﻟﻄﻴﻒ) sıf. (Ar. luṭf– leṭāfet’ten laṭіf) 
+	1. Zevk ve ruh okşayıcı ince bir güzelliğe sâhip olan, hoş, nâzik, yumuşak
+	2. Maddeyle değil ruhla ilgili, gözle görülebilecek maddî bir varlığı olmayan. Karşıtı: KESİF
+
+
+**Levâzım** (ﻟﻮﺍﺯﻡ) i. (Ar. lāzime’nin çoğul şekli levāzim) - Silâhlı kuvvetlerin cephâne ve silâh dışında kalan yiyecek, giyecek maddeleri, çeşitli âlet ve araç gibi ihtiyaçları
+
+
+**Mualla** ( ﻣﻌﻼّ– ﻣﻌﻠّﻰ) sıf. (Ar. ta‘liye “yükseltmek”ten mu‘allā) - Yüksek, yüce, bülent, mürtefi 
+
+
+**Musavvir** (ﻣﺼﻮّﺭ) sıf. ve i. (Ar. taṣvіr “şekil vermek, şekillendirmek”ten muṣavvir) - Bir kimse veya bir şeyi söz yâhut yazı ile anlatıp göz önünde canlandıran, tasvir eden (
+
+
