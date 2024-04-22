@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0ddf0c3661441cc3",
+        "id": "497ba2265616e374",
         "type": "tabs",
         "children": [
           {
-            "id": "4f2764bd8fbc029c",
+            "id": "372a579c02af104c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Algorithms/Greedy.md",
+                "file": "Source/Quran.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5b97b0dda1bc6f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source/Literature/Books/mnv/Kizmet insanı.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Algorithms/Greedy.md",
+                "file": "Source/Literature/Books/mnv/Kizmet insanı.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Algorithms/Greedy.md",
+                "file": "Source/Literature/Books/mnv/Kizmet insanı.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Algorithms/Greedy.md"
+                "file": "Source/Literature/Books/mnv/Kizmet insanı.md"
               }
             }
           },
@@ -166,50 +179,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f2764bd8fbc029c",
+  "active": "a5b97b0dda1bc6f5",
   "lastOpenFiles": [
-    "Coding/Algorithms/Stack.md",
-    "Coding/Leetcode problems/678. Valid Parenthesis String.md",
-    "Coding/Leetcode problems/713. Subarray Product Less Than K.md",
-    "Coding/Leetcode problems/992. Subarrays with K Different Integers.md",
-    "Coding/Algorithms/Greedy.md",
-    "Assets/Pasted image 20240407063747.png",
-    "Coding/Leetcode problems/1614. Maximum Nesting Depth of the Parentheses.md",
+    "Upgrade/SynyqQumyra 1.1.md",
+    "Study/Food Fermentation.The Science of Cooking with Microbes/Fermentation Basics.md",
+    "Source/Literature/Books/mnv/Kizmet insanı.md",
+    "Pasted image 20240418202157.png",
+    "Source/Quran.md",
+    "[].md",
+    "Source/Literature/Books/mnv/Футух-Аль-Гайб.md",
+    "Source/Video/mnv/Почему Из 4300 Религий Именно Ислам Гениальная Техника Декарта.md",
+    "Source/Video/mnv/30 күнде 30 сахаба/Қорытынды.md",
+    "Source/Video/mnv/30 күнде 30 сахаба/30 Әли ибн Әбу Талиб р.а..md",
+    "Source/Video/mnv/30 күнде 30 сахаба/30 Абдулла ибн Зубайр р.а..md",
+    "Coding/Leetcode.md",
     "Coding/Leetcode problems/79. Word Search.md",
+    "Source/Literature/Books/mnv/Сынық құмыра 1.md",
+    "Source/Video/Science/A Better Way To Picture Atoms.md",
+    "Study/Электроника для начинающих Playlist/Урок 1. Что такое ЭЛЕКТРИЧЕСТВО.md",
+    "Assets/Pasted image 20240417185822.png",
+    "Study/Электроника для начинающих Playlist/Урок 2. Электрический ток. ЭДС - электродвижущая сила.md",
+    "Study/Food Fermentation.The Science of Cooking with Microbes",
+    "Source/Literature/Books/dunievi/Оскар и розовая дама.md",
+    "Source/Video/Science/Замените игры программированием..md",
+    "Source/Literature/Books/dunievi/Машина времени.md",
+    "Source/Literature/Books/dunievi/Думай и богатей.md",
+    "Source/Video/Science/Дисциплина - лучший навык.md",
+    "Coding/Leetcode problems/623. Add One Row to Tree.md",
+    "Source/Sozler 500/Sozler 500.md",
+    "Daily notes/Sep 25, 2023.md",
+    "Pet Project.canvas",
+    "Upgrade",
+    "Coding/Leetcode problems/129. Sum Root to Leaf Numbers.md",
+    "Study/Электроника для начинающих Playlist/Assets/Pasted image 20240412155228.png",
+    "Study/Электроника для начинающих Playlist/Assets/Pasted image 20240412154951.png",
+    "Study/Электроника для начинающих Playlist/Assets",
+    "Study/Электроника для начинающих Playlist/Assets/Pasted image 20240412154817.png",
+    "Study/Электроника для начинающих Playlist",
+    "Study",
+    "Assets/Pasted image 20240407063747.png",
     "Assets/Pasted image 20240327121414.png",
     "Assets/Pasted image 20240326143155.png",
-    "Source/Video/Science/Дисциплина - лучший навык.md",
-    "Spheres/Sunnah for every move.md",
-    "Research/Намазда зәм сүрелер.md",
-    "Coding/Algorithms/Sliding window.md",
     "Research",
-    "Coding/Leetcode problems/Code Testcase Testcase Test Result 1249. Minimum Remove to Make Valid Parentheses.md",
-    "Coding/Leetcode problems/1544. Make The String Great.md",
-    "Source/Quran.md",
-    "Coding/Leetcode.md",
-    "Source/Video/mnv/30 күнде 30 сахаба/30 Әли ибн Әбу Талиб р.а..md",
-    "Coding/Algorithms/Backtracking.md",
-    "Coding/Algorithms/Hash Table.md",
-    "Spheres/Sahabas.md",
-    "Spheres/Islam.md",
-    "Spheres/Dua list.md",
-    "Source/Literature/Books/mnv/Футух-Аль-Гайб.md",
-    "Spheres/Принципы.md",
-    "[].md",
-    "Source/Literature/Books/dunievi/Оскар и розовая дама.md",
-    "Source/Literature/Books/mnv/Рухуль-Байан.md",
     "Source/Video/mnv/30 күнде 30 сахаба",
     "Source/Video/mnv",
-    "Pet Project.canvas",
     "Untitled 1.canvas",
     "QQ",
     "Source",
-    "Source/Video/Books",
-    "Spheres",
-    "Templates",
-    "Coding/Leetcode problems",
     "Pasted image 20240327160553.png",
-    "Coding/Algorithms",
     "Pasted image 20230921195410.png"
   ]
 }
