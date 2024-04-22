@@ -11,8 +11,12 @@
             "id": "78d16bd6d6e8a31d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/Apr 20, 2024.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -93,6 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Daily notes/Apr 20, 2024.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Daily notes/Apr 20, 2024.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -119,7 +125,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Daily notes/Apr 20, 2024.md"
+          }
         }
       }
     ],
@@ -137,7 +145,9 @@
   },
   "active": "78d16bd6d6e8a31d",
   "lastOpenFiles": [
+    "Screenshot_20240416-230051_YouTube.jpg",
     "Source/Video/mnv/Mü'minin gönül dünyası 5.md",
+    "Daily notes/Apr 20, 2024.md",
     "Source/Video/Science/Untitled.md",
     "Source/Literature/Books/dunievi/Никогда не ешьте в одиночку.md",
     "Coding/Algorithms/Greedy.md",
