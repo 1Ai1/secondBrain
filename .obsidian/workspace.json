@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "497ba2265616e374",
+        "id": "2b996c3b43b34e13",
         "type": "tabs",
         "children": [
           {
-            "id": "372a579c02af104c",
+            "id": "7d9179fc081d3238",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Source/Quran.md",
+                "file": "Knowledge/Ықылас.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a5b97b0dda1bc6f5",
+            "id": "2e039f208e2ff30f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -161,8 +161,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "73c54a15d66d428b",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -179,22 +188,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5b97b0dda1bc6f5",
+  "active": "2e039f208e2ff30f",
   "lastOpenFiles": [
+    "Knowledge/Ықылас.md",
+    "Source/Quran.md",
+    "Templates/Knowledge.md",
+    "Source/Literature/Books/dunievi/Думай и богатей.md",
+    "Knowledge",
+    "Templates/Book.md",
+    "Source/Literature/Books/mnv/Kizmet insanı.md",
     "Source/Literature/Books/mnv/Сынық құмыра 1.md",
     "Source/Literature/Books/mnv/Рухуль-Байан.md",
-    "Source/Literature/Books/dunievi/Думай и богатей.md",
     "Daily notes/Sep 25, 2023.md",
     "Daily notes/Mar 30, 2024.md",
     "Daily notes/Apr 20, 2024.md",
     "Daily notes/Mar 26, 2024.md",
     "Coding/Algorithms/Sliding window.md",
     "Daily notes/Apr 27, 2024.md",
-    "Source/Literature/Books/mnv/Kizmet insanı.md",
     "Upgrade/SynyqQumyra 1.1.md",
     "Study/Food Fermentation.The Science of Cooking with Microbes/Fermentation Basics.md",
     "Pasted image 20240418202157.png",
-    "Source/Quran.md",
     "[].md",
     "Source/Literature/Books/mnv/Футух-Аль-Гайб.md",
     "Source/Video/mnv/Почему Из 4300 Религий Именно Ислам Гениальная Техника Декарта.md",
@@ -206,10 +219,7 @@
     "Source/Video/Science/A Better Way To Picture Atoms.md",
     "Study/Электроника для начинающих Playlist/Урок 1. Что такое ЭЛЕКТРИЧЕСТВО.md",
     "Assets/Pasted image 20240417185822.png",
-    "Study/Электроника для начинающих Playlist/Урок 2. Электрический ток. ЭДС - электродвижущая сила.md",
     "Study/Food Fermentation.The Science of Cooking with Microbes",
-    "Source/Literature/Books/dunievi/Оскар и розовая дама.md",
-    "Source/Video/Science/Замените игры программированием..md",
     "Pet Project.canvas",
     "Upgrade",
     "Study/Электроника для начинающих Playlist/Assets/Pasted image 20240412155228.png",
@@ -226,7 +236,6 @@
     "Source/Video/mnv",
     "Untitled 1.canvas",
     "QQ",
-    "Source",
     "Pasted image 20240327160553.png",
     "Pasted image 20230921195410.png"
   ]
