@@ -1,10 +1,9 @@
-
-author: Fatih DEĞİRMENLİ
-sphere: [[Manevi]]
+author:
+sphere: 
 theme: 
 tags: 
 
-
+# Book title
 
 ![[Book img]]
 
@@ -40,9 +39,39 @@ tags:
 Ч  -
 Ш  -
 Щ  -
-Ы  - [[Ықылас]]
+Ы  -
 Э  -
 Ю  -
 Я  -
+
+#### ABC
+
+A  -
+B  -
+C  -
+D  -
+E  -
+F  -
+G  -
+H  -
+I  -
+J  -
+K  -
+L  -
+M  -
+N  -
+O  -
+P  -
+Q  -
+R  -
+S  -
+T  -
+U  -  
+V  -
+W  -
+X  -
+Y  -
+Z  -
+
 
 ### Comments
