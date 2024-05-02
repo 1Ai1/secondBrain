@@ -11,8 +11,12 @@
             "id": "2e039f208e2ff30f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Source/Literature/Books/dunievi/Никогда не ешьте в одиночку.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Source/Literature/Books/dunievi/Никогда не ешьте в одиночку.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Source/Literature/Books/dunievi/Никогда не ешьте в одиночку.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Source/Literature/Books/dunievi/Никогда не ешьте в одиночку.md"
+              }
             }
           },
           {
@@ -169,19 +177,25 @@
   },
   "active": "2e039f208e2ff30f",
   "lastOpenFiles": [
-    "Knowledge/Ықылас.md",
     "Source/Literature/Books/mnv/Kizmet insanı.md",
+    "Templates/Book.md",
+    "Source/Literature/Books/dunievi/Никогда не ешьте в одиночку.md",
+    "Assets/Никогда не ешьте в одиночку.png",
+    "Book img.md",
+    "Knowledge/Как стать членом клуба.md",
+    "Daily notes/May 02, 2024.md",
+    "Knowledge/Нәпіл құлшылық, еврат.md",
+    "Daily notes/Mar 26, 2024.md",
+    "Daily notes/Mar 30, 2024.md",
+    "Daily notes/Apr 20, 2024.md",
+    "Knowledge/Ықылас.md",
     "Source/Quran.md",
     "Templates/Knowledge.md",
     "Source/Literature/Books/dunievi/Думай и богатей.md",
     "Knowledge",
-    "Templates/Book.md",
     "Source/Literature/Books/mnv/Сынық құмыра 1.md",
     "Source/Literature/Books/mnv/Рухуль-Байан.md",
     "Daily notes/Sep 25, 2023.md",
-    "Daily notes/Mar 30, 2024.md",
-    "Daily notes/Apr 20, 2024.md",
-    "Daily notes/Mar 26, 2024.md",
     "Coding/Algorithms/Sliding window.md",
     "Daily notes/Apr 27, 2024.md",
     "Upgrade/SynyqQumyra 1.1.md",
@@ -191,12 +205,6 @@
     "Source/Literature/Books/mnv/Футух-Аль-Гайб.md",
     "Source/Video/mnv/Почему Из 4300 Религий Именно Ислам Гениальная Техника Декарта.md",
     "Source/Video/mnv/30 күнде 30 сахаба/Қорытынды.md",
-    "Source/Video/mnv/30 күнде 30 сахаба/30 Әли ибн Әбу Талиб р.а..md",
-    "Source/Video/mnv/30 күнде 30 сахаба/30 Абдулла ибн Зубайр р.а..md",
-    "Coding/Leetcode.md",
-    "Coding/Leetcode problems/79. Word Search.md",
-    "Source/Video/Science/A Better Way To Picture Atoms.md",
-    "Study/Электроника для начинающих Playlist/Урок 1. Что такое ЭЛЕКТРИЧЕСТВО.md",
     "Assets/Pasted image 20240417185822.png",
     "Study/Food Fermentation.The Science of Cooking with Microbes",
     "Pet Project.canvas",
@@ -215,7 +223,6 @@
     "Source/Video/mnv",
     "Untitled 1.canvas",
     "QQ",
-    "Pasted image 20240327160553.png",
-    "Pasted image 20230921195410.png"
+    "Pasted image 20240327160553.png"
   ]
 }

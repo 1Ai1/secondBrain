@@ -4,11 +4,6 @@ sphere: [[Manevi]]
 theme: 
 tags: 
 
-
-
-![[Book img]]
-
-
 ### Main idea
 
 #### АБВ

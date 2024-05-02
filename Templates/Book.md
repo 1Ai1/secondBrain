@@ -3,8 +3,6 @@ sphere:
 theme: 
 tags: 
 
-# Book title
-
 ![[Book img]]
 
 
