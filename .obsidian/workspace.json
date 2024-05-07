@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Source/Literature/Books/dunievi/Никогда не ешьте в одиночку.md",
+                "file": "Upgrade/SynyqQumyra 1.1.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "670c0e16434d587b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Source/Literature/Books/dunievi/Никогда не ешьте в одиночку.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Source/Literature/Books/dunievi/Никогда не ешьте в одиночку.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Source/Literature/Books/dunievi/Никогда не ешьте в одиночку.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,9 +161,17 @@
               "type": "graph-analysis",
               "state": {}
             }
+          },
+          {
+            "id": "329fc6b382d88671",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -175,11 +188,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e039f208e2ff30f",
+  "active": "670c0e16434d587b",
   "lastOpenFiles": [
+    "Assets/Pasted image 20240326143155.png",
+    "Assets/Book img.md",
+    "Assets/Квантовые миры.png",
+    "Assets/Pasted image 20240407063747.png",
+    "Assets/Pasted image 20240327121414.png",
+    "Source/Literature/Books/dunievi/Квантовые миры.md",
+    "Source/Literature/Books/dunievi/Никогда не ешьте в одиночку.md",
+    "Knowledge/Аскетичная квантовая механика.md",
+    "Upgrade/SynyqQumyra 1.1.md",
+    "Untitled.md",
     "Source/Literature/Books/mnv/Kizmet insanı.md",
     "Templates/Book.md",
-    "Source/Literature/Books/dunievi/Никогда не ешьте в одиночку.md",
     "Assets/Никогда не ешьте в одиночку.png",
     "Book img.md",
     "Knowledge/Как стать членом клуба.md",
@@ -198,13 +220,8 @@
     "Daily notes/Sep 25, 2023.md",
     "Coding/Algorithms/Sliding window.md",
     "Daily notes/Apr 27, 2024.md",
-    "Upgrade/SynyqQumyra 1.1.md",
     "Study/Food Fermentation.The Science of Cooking with Microbes/Fermentation Basics.md",
     "Pasted image 20240418202157.png",
-    "[].md",
-    "Source/Literature/Books/mnv/Футух-Аль-Гайб.md",
-    "Source/Video/mnv/Почему Из 4300 Религий Именно Ислам Гениальная Техника Декарта.md",
-    "Source/Video/mnv/30 күнде 30 сахаба/Қорытынды.md",
     "Assets/Pasted image 20240417185822.png",
     "Study/Food Fermentation.The Science of Cooking with Microbes",
     "Pet Project.canvas",
@@ -215,14 +232,10 @@
     "Study/Электроника для начинающих Playlist/Assets/Pasted image 20240412154817.png",
     "Study/Электроника для начинающих Playlist",
     "Study",
-    "Assets/Pasted image 20240407063747.png",
-    "Assets/Pasted image 20240327121414.png",
-    "Assets/Pasted image 20240326143155.png",
     "Research",
     "Source/Video/mnv/30 күнде 30 сахаба",
     "Source/Video/mnv",
     "Untitled 1.canvas",
-    "QQ",
-    "Pasted image 20240327160553.png"
+    "QQ"
   ]
 }
