@@ -13,22 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Upgrade/SynyqQumyra 1.1.md",
+                "file": "Knowledge/kop soz.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "670c0e16434d587b",
+            "id": "6eabab62517f5da8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/kop soz.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "зәм",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Knowledge/kop soz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Knowledge/kop soz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Knowledge/kop soz.md"
+              }
             }
           },
           {
@@ -188,8 +195,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "670c0e16434d587b",
+  "active": "2e039f208e2ff30f",
   "lastOpenFiles": [
+    "Source/Literature/Books/mnv/Рухуль-Байан.md",
+    "Daily notes/May 31, 2024.md",
+    "Spheres/Sunnah for every move.md",
+    "Knowledge/kop soz.md",
+    "Source/Literature/Books/mnv/Kizmet insanı.md",
+    "Knowledge/Ықылас.md",
+    "Knowledge/Нәпіл құлшылық, еврат.md",
+    "Knowledge/Аскетичная квантовая механика.md",
+    "Untitled.canvas",
+    "Research/Намазда зәм сүрелер.md",
+    "Study/Food Fermentation.The Science of Cooking with Microbes/Fermentation Basics.md",
+    "Spheres/Принципы.md",
+    "Spheres/Sahabas.md",
+    "Spheres/Islam.md",
+    "Spheres/Dua list.md",
+    "Source/Literature/Books/dunievi/Оскар и розовая дама.md",
+    "Upgrade/SynyqQumyra 1.1.md",
     "Assets/Pasted image 20240326143155.png",
     "Assets/Book img.md",
     "Assets/Квантовые миры.png",
@@ -197,30 +221,15 @@
     "Assets/Pasted image 20240327121414.png",
     "Source/Literature/Books/dunievi/Квантовые миры.md",
     "Source/Literature/Books/dunievi/Никогда не ешьте в одиночку.md",
-    "Knowledge/Аскетичная квантовая механика.md",
-    "Upgrade/SynyqQumyra 1.1.md",
     "Untitled.md",
-    "Source/Literature/Books/mnv/Kizmet insanı.md",
     "Templates/Book.md",
     "Assets/Никогда не ешьте в одиночку.png",
     "Book img.md",
     "Knowledge/Как стать членом клуба.md",
     "Daily notes/May 02, 2024.md",
-    "Knowledge/Нәпіл құлшылық, еврат.md",
     "Daily notes/Mar 26, 2024.md",
     "Daily notes/Mar 30, 2024.md",
-    "Daily notes/Apr 20, 2024.md",
-    "Knowledge/Ықылас.md",
-    "Source/Quran.md",
-    "Templates/Knowledge.md",
-    "Source/Literature/Books/dunievi/Думай и богатей.md",
     "Knowledge",
-    "Source/Literature/Books/mnv/Сынық құмыра 1.md",
-    "Source/Literature/Books/mnv/Рухуль-Байан.md",
-    "Daily notes/Sep 25, 2023.md",
-    "Coding/Algorithms/Sliding window.md",
-    "Daily notes/Apr 27, 2024.md",
-    "Study/Food Fermentation.The Science of Cooking with Microbes/Fermentation Basics.md",
     "Pasted image 20240418202157.png",
     "Assets/Pasted image 20240417185822.png",
     "Study/Food Fermentation.The Science of Cooking with Microbes",
