@@ -1,2 +1,2 @@
 
-[[Quran#Juz 15#17 80|17:80]]![[Quran#^468b2f]]
+[[Quran OLD VERSION#Juz 15#17 80|17:80]]![[Quran OLD VERSION#^468b2f]]

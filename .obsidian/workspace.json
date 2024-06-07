@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/kop soz.md",
+                "file": "Source/Quran OLD VERSION.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6eabab62517f5da8",
+            "id": "0d04497ab98b3861",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/kop soz.md",
+                "file": "Source/Quran.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/kop soz.md",
+                "file": "Source/Quran.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/kop soz.md",
+                "file": "Source/Quran.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/kop soz.md"
+                "file": "Source/Quran.md"
               }
             }
           },
@@ -195,12 +196,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e039f208e2ff30f",
+  "active": "0d04497ab98b3861",
   "lastOpenFiles": [
+    "Source/Quran OLD VERSION.md",
+    "Source/Quran.md",
+    "Knowledge/kop soz.md",
     "Source/Literature/Books/mnv/Рухуль-Байан.md",
     "Daily notes/May 31, 2024.md",
     "Spheres/Sunnah for every move.md",
-    "Knowledge/kop soz.md",
     "Source/Literature/Books/mnv/Kizmet insanı.md",
     "Knowledge/Ықылас.md",
     "Knowledge/Нәпіл құлшылық, еврат.md",
@@ -227,8 +230,6 @@
     "Book img.md",
     "Knowledge/Как стать членом клуба.md",
     "Daily notes/May 02, 2024.md",
-    "Daily notes/Mar 26, 2024.md",
-    "Daily notes/Mar 30, 2024.md",
     "Knowledge",
     "Pasted image 20240418202157.png",
     "Assets/Pasted image 20240417185822.png",
